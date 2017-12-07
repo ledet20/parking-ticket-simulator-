@@ -6,14 +6,14 @@ program designed to simulate a praking ticket based on random values (1-500). If
 
 one ticket generated 
 
-![alt text](img/parkingMet1.png "One ticket genertated")
+![alt text](img/parkingTick1.png "One ticket genertated")
 
 
 two ticketes generated 
 
-![alt text](img/parkingMet.png "Two ticket genertated")
+![alt text](img/parkingTick2.png "Two ticket genertated")
 
 
 not tickets generated 
 
-![alt text](img/parkingMet2.png "No ticket genertated")
+![alt text](img/parkingTick.png "No ticket genertated")
